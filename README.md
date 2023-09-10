@@ -5,8 +5,8 @@
 
 
 -  🌍 I’m currently working on , Object Detection,Feature Engineering, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.
-- 🌱 I’m a student of **Machine Learning**
-- ⚡ I love math, programming, Machine Learning, and books 
+- 🌱 I’m a student exploring **Machine Learning , Deep Learning** eager to develop expertise in advance neural networks
+- ⚡ I love math, programming, Machine Learning,doodling and books 
 - 🌍 I’m addicted to learning and growing every day #open to learning
 - ⭐ Let's connect and build future together
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/ankitacodes28/ankitacodes28)
