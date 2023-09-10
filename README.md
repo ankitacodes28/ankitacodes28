@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitacodes28&label=Profile%20views&color=0e75b6&style=flat" alt="ankitacodes28" /> </p>
 
 
--  🌍 I’m currently working on Medical Image Segmentation, Object Detection,Feature Engineering, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.
-- 🌱 I’m a student of **Data science**
-- ⚡ I love math, programming, Machine Learning, and books
-- 🌍 I’m addicted to learning and growing every day
+-  🌍 I’m currently working on , Object Detection,Feature Engineering, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.
+- 🌱 I’m a student of **Machine Learning**
+- ⚡ I love math, programming, Machine Learning, and books 
+- 🌍 I’m addicted to learning and growing every day #open to learning
+- ⭐ Let's connect and build future together
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/ankitacodes28/ankitacodes28)
 - 💬 Ask me about **Artificial Intelligence, Computer vision, Image processing, Machine learning and Deep learning**
 - 📫 How to reach me **ankita.choudhary.21E@iitram.ac.in**
