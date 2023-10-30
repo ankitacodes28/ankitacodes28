@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita Choudhary,Nice to Meet You ☺️ </h1>
 <h3 align="center">A passionate Deep Learning, Artificial Intelligence and Macine Learning Enthusiast  </h3>
-<img align = "right" alt = "coding" width = "400" src ="//https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/45.png
+<img align = "right" alt = "coding" width = "400" src ="//https://raw.githubusercontent.com/g
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitacodes28&label=Profile%20views&color=0e75b6&style=flat" alt="ankitacodes28" /> </p>
 
